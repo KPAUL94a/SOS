@@ -1,0 +1,10 @@
+{
+  "description": "Streamline design collaboration and project management with an intuitive platform that enhances team communication and workflow efficiency.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}

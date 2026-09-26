@@ -1,0 +1,64 @@
+@import 'tailwindcss';
+
+@font-face {
+  font-family: 'Doppio One:Regular';
+  font-style: normal;
+  font-weight: 400;
+  src: url('https://static.figma.com/font/DoppioOne-Regular_1') format('woff2');
+}
+
+@font-face {
+  font-family: 'Jersey 15:Regular';
+  font-style: normal;
+  font-weight: 400;
+  src: url('https://static.figma.com/font/Jersey15-Regular_2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Kreon:Regular';
+  font-style: normal;
+  font-weight: 400;
+  src: url('https://static.figma.com/font/Kreon_wght__1') format('woff2');
+}
+
+@font-face {
+  font-family: 'League Gothic:Regular';
+  font-style: normal;
+  font-weight: 400;
+  src: url('https://static.figma.com/font/LeagueGothic_wdth__1') format('woff2');
+}
+
+@font-face {
+  font-family: 'Lexend Giga:Regular';
+  font-style: normal;
+  font-weight: 400;
+  src: url('https://static.figma.com/font/LexendGiga_wght__1') format('woff2');
+}
+
+@font-face {
+  font-family: 'Noto Sans Math:Regular';
+  font-style: normal;
+  font-weight: 400;
+  src: url('https://static.figma.com/font/NotoSansMath-Regular_1') format('woff2');
+}
+
+@font-face {
+  font-family: 'Noto Sans Symbols2:Regular';
+  font-style: normal;
+  font-weight: 400;
+  src: url('https://static.figma.com/font/NotoSansSymbols2-Regular_5') format('woff2');
+}
+
+@font-face {
+  font-family: 'Noto Sans Symbols:Regular';
+  font-style: normal;
+  font-weight: 400;
+  src: url('https://static.figma.com/font/NotoSansSymbols-VF_2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Noto Sans:Regular';
+  font-style: normal;
+  font-weight: 400;
+  src: url('https://static.figma.com/font/NotoSans-VF_3') format('woff2');
+}
